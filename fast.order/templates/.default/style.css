@@ -1,0 +1,58 @@
+.fast-order{
+	margin-top: 10px;
+	width: 100%;
+	height:100px;
+	background: url(/images/bg-fast-order.gif);
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.48);
+}
+
+.fast-order h2{
+	color: #553a32;
+	margin-left: 20px;
+	padding-top: 7px !important;
+	font-size: 36px;
+	margin-bottom: 4px !important;
+	font-family: 'Lobster',cursive !important;
+	line-height: 40px;
+}
+
+.fast-order input{
+	float: left;
+	margin-left: 20px;
+}
+
+.fast-order input[type=text]{
+	width: 250px !important;
+}
+
+.fast-order .green-but{
+	width: 100px !important;
+	height: 30px !important;
+	font-size: 15px !important;
+	padding: 0px !important;
+}
+
+.fast-order .fast-info{
+	float: right;
+	margin-top: -30px;
+	margin-right: 20px;
+}
+
+.fast-order .fast-success{
+	float: right;
+	margin-top: -30px;
+	margin-right: 20px;
+	color: #33aa33;
+	font-size: 1.2em;
+}
+
+.fast-order .fast-error{
+	float: right;
+	margin-top: -30px;
+	margin-right: 20px;
+	color: #bd4a07;
+	font-size: 1.2em;
+}
